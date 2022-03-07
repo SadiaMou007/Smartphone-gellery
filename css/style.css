@@ -1,0 +1,22 @@
+/* navbar design */
+.nav {
+  height: 70px;
+  color: rgb(116, 95, 45);
+}
+.nav-icon {
+  font-size: x-large;
+  margin-right: 7px;
+}
+/* heading 5 color */
+.h5 {
+  color: rgb(202, 163, 63);
+}
+/* images design */
+img:hover {
+  transition: all 0.3s ease-in-out;
+  transform: scale(1.05);
+}
+/* card hover */
+.mcard:hover {
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
